@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitalii Mykytyn</h1>
-<h3 align="center">A passionate Front-end developer from Ukraine</h3>
+<h3 align="center">A passionate Front-end developer & Data Analyst from Ukraine</h3>
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"/> </p>
 
